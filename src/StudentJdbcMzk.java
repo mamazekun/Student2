@@ -2,6 +2,8 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
+
+//qiehaobin
 public class StudentJdbcMzk {
     public List<StudentMzk> select(){
         List<StudentMzk> studentMzklist=new ArrayList();
